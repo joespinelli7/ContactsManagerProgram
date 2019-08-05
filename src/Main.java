@@ -25,7 +25,7 @@ public class Main {
         myContactsManager.addContact(friendJessica);
 
         // Now let's try to search of a contact and display their phone number
-        Contact result = myContactsManager.searchContact("Jessica");
+        Contact result = myContactsManager.searchContact("Cezanne");
         System.out.println(result.phoneNumber);
     }
 }

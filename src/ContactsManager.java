@@ -1,4 +1,4 @@
-class ContactsManager<Contact> {
+class ContactsManager {
     // Fields:
     Contact [] myFriends;
     int friendsCount;
